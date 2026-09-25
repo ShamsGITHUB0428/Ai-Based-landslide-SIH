@@ -1,2 +1,3 @@
-# Landscape_AI
-landscape predictor ,a platfrom which can help you about weather and and your personalized solution for you if your work need weather information. and it can predict your location weather if you give your location. 
+# Ai-Based-landslide-SIH
+
+Landscape predictor: a platform that provides weather information and personalized guidance, and can predict weather for a user-provided location.
